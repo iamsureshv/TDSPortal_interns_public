@@ -5,7 +5,7 @@ import { logout } from './authApi';
 // import { CONSTANTS } from '../shared/constants';
 
 const axiosClient = axios.create({
-  baseURL: 'https://ec2-13-232-200-64.ap-south-1.compute.amazonaws.com:9091',
+  baseURL: 'https://ec2-13-201-42-175.ap-south-1.compute.amazonaws.com:9091',
   headers: {
     'Content-Type': 'application/json',
     'Access-Control-Allow-Origin': '*',
