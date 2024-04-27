@@ -1,0 +1,48 @@
+.Sidebar {
+  background-color: #364760;
+  height: 60rem;
+  width: 100%; /* Set the width of the sidebar */
+  z-index: 1; /* Stay on top */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  position: relative;
+  
+}
+@media (min-height: 10rem) {
+  .Sidebar {
+      height:60rem;
+
+  }
+}
+.SidebarList {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+}
+
+.SidebarList .row {
+  background-color: #364760;
+  text-align-last: left;
+  margin: 0;
+  color: white;
+  padding: 1rem 0.5rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  cursor: pointer;
+}
+
+.SidebarList #active {
+  background-color: #253347;
+}
+
+.SidebarList .row:hover {
+  background-color: #253347;
+}
+
+.row #title {
+  flex: 100%;
+}
+
+.Activebar {
+  height: 5%;
+  width: 100%;
+  background-color: #364760;
+}

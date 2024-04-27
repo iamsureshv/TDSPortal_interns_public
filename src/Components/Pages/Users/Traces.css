@@ -1,0 +1,96 @@
+/* .traces-table thead tr th {
+  background-color: #364760;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+.traces-table tbody tr td {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+}
+table tr:nth-child(even) {
+  background-color: #d5dae6;
+}
+
+table tr:hover {
+  background-color: #fff;
+} */
+.reset {
+  text-align: right;
+}
+
+.dropdown-1-traces {
+  margin-left: 20%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-right: 0%;
+  display: inline-block;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #364860;
+  width: 15%;
+}
+.dropdown-2-traces {
+  margin-left: 5%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-right: 0%;
+  display: inline-block;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #364860;
+  width: 15%;
+}
+.dropdown-1,
+.dropdown-2,
+.dropdown-3 label {
+  text-align: center;
+}
+
+#dropdown-basic {
+  background-color: #edf0f9;
+  color: #364860;
+  text-align: left;
+  margin-top: -7%;
+}
+
+.btn-green {
+  border-radius: 50%;
+  background-color: #04aa6d;
+  border: none;
+  color: white;
+  margin-top: 2em;
+  padding: 4%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+}
+
+/* #btn-reset-tds {
+  width: 10%;
+  background-image: linear-gradient(to left, #878889, #4c4d4d);
+}
+#btn-download-tds {
+  width: 10%;
+  background-image: linear-gradient(to bottom, #364760, #253347);
+} */
+
+/* table {
+  font-family: "Gill Sans MT";
+  border-collapse: collapse;
+  width: 1000px;
+  font-size: 15px;
+  text-align: center;
+} */
+.input1 {
+  display: inline;
+  position: relative;
+  width: 60px;
+  cursor: pointer;
+  padding-top: 10px;
+  font-family: Gill Sans MT;
+  color: #364760;
+}
+
+.traces-table {
+  margin-left: 15%;
+}

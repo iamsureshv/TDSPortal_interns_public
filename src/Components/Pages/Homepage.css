@@ -1,0 +1,402 @@
+.home-page {
+  background-color: #d5dae6;
+  padding: 2rem;
+}
+
+.home-heading {
+  margin-bottom: 2rem;
+}
+
+.functionalities-list {
+  padding-left: 1rem;
+}
+
+.register-button {
+  margin-right: 1rem;
+}
+
+#Professional_Tax_Planning_and_ {
+  top: 17%;
+  position: absolute;
+  overflow: visible;
+  width: 100%;
+  height: 25%;
+  margin-left: -26%;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 3.5vw;
+  color: rgba(54, 71, 96, 1);
+}
+.Homepage_body {
+  padding-left: 5%;
+}
+#Group_94 {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  left: 13.9%;
+  top: 42%;
+  overflow: visible;
+}
+#Secured_storage {
+  left: 20%;
+  top: -5%;
+  position: absolute;
+  overflow: visible;
+  width: 50%;
+  white-space: nowrap;
+
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5vw;
+  color: rgba(54, 71, 96, 1);
+}
+#Access_Anytime_ {
+  top: 55%;
+  left: 20%;
+  position: absolute;
+  overflow: visible;
+  width: 50%;
+  white-space: nowrap;
+
+  margin-top: 2%;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5vw;
+  color: rgba(54, 71, 96, 1);
+}
+#Download_Reports {
+  left: 20%;
+  top: 105%;
+  position: absolute;
+  overflow: visible;
+  width: 50%;
+  white-space: nowrap;
+  margin-top: 5%;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5vw;
+  color: rgba(54, 71, 96, 1);
+}
+#Tick_1 {
+  position: absolute;
+  width: 30%;
+  height: 40%;
+  left: 0px;
+  font-size: 1.2vw;
+  top: 0px;
+  overflow: visible;
+}
+#Group_91 {
+  position: absolute;
+  width: 30%;
+  height: 30%;
+  left: 0px;
+  top: 0px;
+  font-size: 1.2vw;
+  overflow: visible;
+}
+#Rectangle_624 {
+  fill: rgba(54, 71, 96, 1);
+}
+.Rectangle_624 {
+  position: absolute;
+  overflow: visible;
+  width: 40%;
+  font-size: 1.2vw;
+  height: 40%;
+  left: 0px;
+  top: 0px;
+}
+#Group_85 {
+  position: absolute;
+  width: 15.825%;
+  height: 17%;
+  left: 8.924%;
+  top: 20%;
+  font-size: 1.2vw;
+  overflow: visible;
+}
+#Rectangle_460 {
+  fill: transparent;
+}
+.Rectangle_460 {
+  position: absolute;
+  overflow: visible;
+  width: 15%;
+  height: 15%;
+  left: 0.076%;
+  font-size: 1.2vw;
+  top: 0px;
+}
+#Checkbox {
+  fill: rgba(255, 255, 255, 1);
+}
+.Checkbox {
+  overflow: visible;
+  position: absolute;
+  width: 100%;
+  height: 260%;
+  left: 0px;
+  top: 75%;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  font-size: 1.2vw;
+}
+#Tick_2 {
+  position: absolute;
+  width: 30%;
+  height: 40%;
+  left: 0px;
+  top: 69%;
+  overflow: visible;
+  font-size: 1.2vw;
+}
+#Group_92 {
+  position: absolute;
+  width: 30%;
+  height: 40%;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  font-size: 1.2vw;
+}
+#Rectangle_624_ba {
+  fill: rgba(54, 71, 96, 1);
+}
+.Rectangle_624_ba {
+  position: absolute;
+  overflow: visible;
+  width: 40%;
+  font-size: 1.2vw;
+  height: 40%;
+  left: 0px;
+  top: 0px;
+}
+#Group_85_bb {
+  position: absolute;
+  width: 15.825%;
+  height: 17%;
+  left: 8.924%;
+  top: 20%;
+  overflow: visible;
+  font-size: 1.2vw;
+}
+#Rectangle_460_bc {
+  fill: transparent;
+}
+.Rectangle_460_bc {
+  position: absolute;
+  overflow: visible;
+  width: 15%;
+  height: 15%;
+  left: 0.076%;
+  font-size: 1.2vw;
+  top: 0px;
+}
+#Checkbox_bd {
+  fill: rgba(255, 255, 255, 1);
+}
+.Checkbox_bd {
+  overflow: visible;
+  position: absolute;
+  width: 100%;
+  height: 260%;
+  left: 0px;
+  top: 75%;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  font-size: 1.2vw;
+}
+#Tick_3 {
+  position: absolute;
+  width: 30%;
+  height: 40%;
+  left: 0px;
+  top: 132%;
+  overflow: visible;
+  font-size: 1.2vw;
+}
+#Group_93 {
+  position: absolute;
+  width: 30%;
+  height: 30%;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  font-size: 1.2vw;
+}
+#Rectangle_624_bg {
+  fill: rgba(54, 71, 96, 1);
+}
+.Rectangle_624_bg {
+  position: absolute;
+  overflow: visible;
+  width: 40%;
+  font-size: 1.2vw;
+  height: 40%;
+  left: 0px;
+  top: 0px;
+}
+#Group_85_bh {
+  position: absolute;
+  width: 15.825%;
+  height: 17%;
+  left: 8.924%;
+  top: 20%;
+  overflow: visible;
+  font-size: 1.2vw;
+}
+#Rectangle_460_bi {
+  fill: transparent;
+}
+.Rectangle_460_bi {
+  position: absolute;
+  overflow: visible;
+  width: 15%;
+  height: 15%;
+  left: 0.076%;
+  font-size: 1.2vw;
+  top: 0px;
+}
+#Checkbox_bj {
+  fill: rgba(255, 255, 255, 1);
+}
+.Checkbox_bj {
+  overflow: visible;
+  position: absolute;
+  width: 100%;
+  height: 260%;
+  left: 0px;
+  top: 75%;
+  font-size: 1.2vw;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Group_181 {
+  position: absolute;
+  width: 10%;
+  height: 10%;
+  margin-left: 8%;
+  top: 65%;
+  overflow: visible;
+}
+#Component_220 {
+  position: absolute;
+  width: 48%;
+  overflow: visible;
+  font-size: 1.2vw;
+}
+
+#DDO_Registration {
+  left: -11%;
+  top: 35%;
+  position: absolute;
+  overflow: visible;
+  width: 100%;
+  height: 30%;
+  white-space: nowrap;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1vw;
+  color: rgba(255, 255, 255, 1);
+}
+#DDO_Registration button {
+  padding: 2vh 4vh 2vh 4vh;
+  background-color: rgba(54, 71, 96, 1);
+  font-size: 1.2vw;
+}
+
+#Group_180 {
+  position: absolute;
+  width: 45%;
+  height: 10%;
+  margin-left: 150%;
+  overflow: visible;
+  font-size: 1.2vw;
+}
+#DDO_Log_In button {
+  padding: 2vh 8vh 2vh 5vh;
+  background-color: #ffffff;
+  color: rgba(54, 71, 96, 1);
+  font-size: 1.2vw;
+  border: 1px solid rgba(54, 71, 96, 1);
+}
+#DDO_Log_In {
+  left: -11%;
+  top: 35%;
+  position: absolute;
+  overflow: visible;
+  width: 100%;
+  height: 30%;
+  white-space: nowrap;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1vw;
+  color: rgba(54, 71, 96, 1);
+}
+
+#DDO_Log_In span {
+  margin-left: 15%;
+}
+
+#Register_for_new__Deductor__DD {
+  left: 15%;
+  top: 77%;
+  max-width: 8%;
+  position: absolute;
+  margin-top: -1.5%;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1vw;
+  color: rgba(54, 71, 96, 1);
+}
+#Log_In_if_already_registered {
+  left: 30%;
+  top: 77%;
+  max-width: 8%;
+  position: absolute;
+  margin-top: -1.5%;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1vw;
+  color: rgba(54, 71, 96, 1);
+}
+#We_help_you_manage_your_TDS_fi {
+  left: -22%;
+  top: 42%;
+  position: absolute;
+  overflow: visible;
+  width: 100%;
+  height: 15%;
+  line-height: 35%;
+  margin-top: -5%;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.7vw;
+  color: rgba(54, 71, 96, 1);
+}
+
+#Homepage_logo {
+  margin-left: 55%;
+  width: 40vw;
+  height: 100%;
+  position: absolute;
+  margin-top: 7%;
+}

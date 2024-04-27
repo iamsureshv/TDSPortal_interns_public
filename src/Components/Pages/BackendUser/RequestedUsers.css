@@ -1,0 +1,78 @@
+.container-tan {
+  padding-left: 20%;
+}
+/* .tan-master-table thead tr th {
+  padding: 1%;
+  margin: 10%;
+  background-color: #364760;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+table tr:nth-child(even) {
+  background-color: #c4cbdb;
+}
+
+table tr:hover {
+  background-color: #fff;
+} */
+
+.button-btn {
+  margin-top: 2rem;
+}
+.button-btn span {
+  margin-left: 14%;
+}
+/* .pagenation {
+  position: absolute;
+  left: 70%;
+} */
+.pagenation button {
+  text-decoration: none;
+  outline: none;
+  box-shadow: none;
+  height: 2%;
+  color: #364760;
+}
+#btn-tan,
+#btn-tan2 {
+  border: none;
+  background-color: #364760;
+}
+#btn-tan2 {
+  margin-left: 1rem;
+}
+/* .tan-master-table tr td {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: normal;
+  text-align-last: center;
+} */
+/* .searchbar {
+  width: 100%;
+} */
+/* .searchbar span {
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+.searchbar input {
+  width: 15rem;
+}
+
+.tan-tabs {
+  width: 70%;
+  font-weight: normal;
+  color: #364760;
+}
+
+.tan-tabs .nav-item {
+  height: 2.5rem;
+  color: grey;
+}
+
+.tan-tabs .nav-item:hover {
+  color: #495057;
+}
+
+.tan-tabs > title:hover {
+  color: black;
+} */

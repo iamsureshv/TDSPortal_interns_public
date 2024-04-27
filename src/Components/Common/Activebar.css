@@ -1,0 +1,68 @@
+.activebar {
+  background: #d6dae6;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 1.0rem;
+  z-index: 999;
+  color: #364860;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  width: 100%;
+  padding: 1rem 2rem;
+}
+
+.activebar.nav {
+  padding: 1rem 2rem;
+}
+
+.center {
+  text-align: center;
+}
+
+/* .small-font span {
+  font-size: 1rem;
+  margin-right: 10%;
+  display: inline-block;
+} */
+
+#user-tag {
+  color: #364860;
+  margin-left: 0.5rem;
+}
+
+.activebar .nav-item a.dropdown-item {
+  padding: 0 1rem;
+}
+
+.activebar .nav-item {
+  height: 1.8rem;
+}
+
+.activebar .nav-item a {
+  padding: 0;
+}
+
+.date-details {
+  flex: 1 1 auto;
+}
+
+.date-details span {
+  margin-right: 1rem;
+}
+
+.current-date {
+  margin-left: 4rem;
+}
+
+.deductor-name {
+  margin-left: 2rem;
+}
+
+.last-login-date {
+  margin-left: 5rem;
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+}

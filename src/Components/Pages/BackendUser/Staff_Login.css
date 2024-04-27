@@ -1,0 +1,211 @@
+/* .Login_Component_Staff {
+  margin-top: 10%;
+} */
+
+.Staff_Login_text {
+  text-align: center;
+  background: #2b3a51;
+  color: #eef1fa;
+  padding: 0.5vh 0vh;
+  position: relative;
+  font-size: 1.4rem;
+  padding: 1rem 0;
+}
+
+.Super_Window {
+  background-color: #eef1fa;
+  border: none;
+  width: 30%;
+  margin: 2rem auto 2rem auto;
+  /* position: relative;
+  left: 32.7%;
+  bottom: 48.5px; */
+  box-shadow: 3px 3px 2px grey;
+}
+.Staff_Login_body {
+  padding: 1rem;
+}
+.Manager_Window {
+  background-color: #eef1fa;
+  padding: 2vh 0vh 0vh 7vh;
+  border: none;
+  width: 33.5%;
+  position: relative;
+  left: 32.7%;
+  bottom: 48.5px;
+  /* box-shadow: 3px 3px 2px grey; */
+}
+.Backend_Window {
+  background-color: #eef1fa;
+  padding: 2vh 0vh 0vh 7vh;
+  border: none;
+  width: 33.5%;
+  position: relative;
+  left: 32.7%;
+  bottom: 48.5px;
+  /* box-shadow: 3px 3px 2px grey; */
+}
+.Backend_Admin_Window {
+  background-color: #eef1fa;
+  padding: 2vh 0vh 0vh 7vh;
+  border: none;
+  width: 33.5%;
+  position: relative;
+  left: 32.7%;
+  bottom: 48.5px;
+  /* box-shadow: 3px 3px 2px grey; */
+}
+.Labels_User_id_Staff {
+  font-size: 1rem;
+  color: #4d545c;
+  font-weight: normal;
+}
+.Labels_password_Staff {
+  font-weight: normal;
+  font-size: 1rem;
+  margin-top: 1rem !important;
+  color: #4d545c;
+}
+.Mandatory_Staff {
+  font-size: 18px;
+  color: red;
+}
+
+.text_box_Staff,
+.password_box_Staff {
+  width: 80%;
+  height: 2.5rem;
+  border-radius: 5px;
+  border: 1px solid #000;
+  outline: none;
+  font-size: 18px;
+}
+::-webkit-input-placeholder {
+  font-size: 18px;
+}
+.forgot_password_Staff {
+  font-size: 1rem !important;
+  cursor: pointer;
+  display: block;
+  margin: 1rem 0 !important;
+}
+.Login_Button_Staff {
+  width: 10rem;
+  border: none;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+.dot_Staff {
+  height: 15px;
+  width: 15px;
+  background-color: #65e447;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  left: 20px;
+}
+
+.Active_Staff {
+  position: relative;
+  left: 3em;
+  bottom: 22px;
+}
+
+.notificaton {
+  color: red;
+  position: relative;
+  left: 50%;
+}
+.btn_pack_Staff {
+  padding: 4vh 3vh;
+  width: 25%;
+  font-size: 11px;
+  float: left;
+  background: #d6dae6;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  top: 2em;
+}
+
+.Login_Buttons_Staff {
+  margin: 0px 0vh 30vh 15vh;
+  width: 33.5%;
+  position: relative;
+  top: 4.5em;
+  left: 25.5%;
+  z-index: 20;
+  box-shadow: 20px #2b3a51;
+}
+
+.DDO_Login {
+  width: 30%;
+  padding: 20px;
+  background-color: #d6dae6;
+}
+.DDO_Login:hover {
+  background: #2b3a51;
+}
+
+/* @media only screen and (max-width:600px){
+
+
+    .Super_Window,.Manager_Window,.Backend_Window,.Backend_Admin_Window{
+        width:80%;
+        position: unset;
+        margin-left: 3vh;
+        padding-left: 20px;
+    }
+    .btn_pack_Staff{
+        width: 25%;
+        padding: 3vh 6vh 2.5vh 4vh;
+        position: relative;
+        right:24%;
+        font-size: 10px;
+    }
+    .Login_Buttons_Staff{
+        margin: 0vh 0vh 27.8vh 13.5vh;
+        width:83.2%;
+        position:relative;
+        top: 12em;
+        left:3%;
+        z-index: 20;
+        box-shadow: 20px #2b3a51;
+    }
+    .Staff_Login_text{
+       right: 24%;
+    }
+}
+  @media only screen and (max-width:900px) and (min-width:601px){
+    .Super_Window,.Manager_Window,.Backend_Window,.Backend_Admin_Window{
+        width:60%;
+        position: relative;
+        left:20%;
+        padding-top:7em
+    }
+
+}  */
+/*
+@media only screen and (max-width:1200px) and (min-width:901px){
+    .Super_Window,.Manager_Window,.Backend_Window,.Backend_Admin_Window{
+        width:40%;
+        position: relative;
+        left:5%;
+    }
+    .btn_pack_Staff{
+        width: 10%;
+        font-size: 10px;
+        right: 6.5%;
+    }
+    .Login_Buttons_Staff{
+        position: relative;
+        top: -1%;
+        right:7%;
+        width:30%
+    }
+
+} */

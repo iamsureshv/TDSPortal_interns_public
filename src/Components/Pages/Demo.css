@@ -1,0 +1,25 @@
+#container {
+    width: 100%;
+    background: #630404;
+    }
+    
+    .content {
+    width: 950px;
+    float: right;
+    padding: 10px;
+    height: 100%;
+    background-color: #b37700;
+    }
+    
+    .sidebar {
+    width: 220px;
+    float: left;
+    height: 100%;
+    padding: 5px;
+    background: #4e38c7;
+    }
+    
+    #footer {
+    clear:both;
+    background:#14a727;
+    }

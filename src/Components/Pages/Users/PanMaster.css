@@ -1,0 +1,45 @@
+/* .pan-master-table thead tr th {
+  background-color: #364760;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  width: 50px;
+  text-align: center;
+}
+table tr:nth-child(even) {
+  background-color: #d5dae6;
+}
+
+table tr:hover {
+  background-color: #fff;
+} */
+
+.button-btn {
+  margin-top: 2rem;
+}
+.button-btn span {
+  margin-left: 14%;
+}
+/* .pagenation-panmaster {
+  margin-left: 37%;
+} */
+.pagenation-panmaster button {
+  text-decoration: none;
+  outline: none;
+  color: white;
+  box-shadow: none;
+  height: 2%;
+  color: #364760;
+}
+/* #btn-pan {
+  margin-left: 32%;
+  background-color: #364760;
+}
+#btn-pan2 {
+  margin: 1em;
+  background-color: #364760;
+} */
+/* .pan-master-table tr td {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  text-align-last: center;
+} */

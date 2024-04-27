@@ -1,0 +1,105 @@
+.notification {
+  color: red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.login-window {
+  background-color: #eef1fa;
+  border: none;
+  box-shadow: 3px 3px 2px grey;
+  /* width: 25%; */
+  width: 80%;
+  max-width: 350px;
+  margin-right: 2rem;
+  margin-bottom:2rem;
+}
+
+.login-window h2 {
+  color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+}
+
+.login_head {
+  height: 60px;
+  background-color: #364860;
+  padding: 18px;
+  width: 104%;
+}
+
+.login_body {
+  padding: 1rem 1.5rem;
+}
+
+.label-user-id,
+.label-password {
+  font-size: 16px;
+  color: #4d545c;
+  font-weight: normal;
+}
+
+.mandatory {
+  font-size: 1em;
+  color: red;
+}
+
+.input-box {
+  height: 2.5rem;
+  border-radius: 5px;
+  border: 1px solid #000;
+  outline: none;
+  font-size: 18px;
+  margin-bottom: 1rem;
+}
+
+.forgot_password {
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+
+.login-button {
+  display: block !important;
+  width: 30%;
+  margin: 1.5rem auto 0 auto;
+}
+
+.login-calendar {
+  /* width: 25%; */
+  width: 50%;
+  max-width:350px;
+  min-width :300px;
+  box-shadow: 3px 3px 2px grey;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: #65e447;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  top: -2%;
+  left: 20px;
+}
+
+::placeholder {
+  font-size: 20px;
+}
+
+::-webkit-input-placeholder {
+  font-size: 18px;
+}

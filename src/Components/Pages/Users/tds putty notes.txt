@@ -1,0 +1,12 @@
+Putty credientials
+
+user  :  5.189.143.247
+Port  :  2211
+
+user  : root
+pass  : Digicube@2023$$
+
+directory : cd /home/detale/public_html/tdsfnd/TDSPortal_Interns
+
+
+export NODE_OPTIONS=--openssl-legacy-provider
