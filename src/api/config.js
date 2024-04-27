@@ -4,25 +4,11 @@ import { toast } from 'react-toastify';
 import { logout } from './authApi';
 // import { CONSTANTS } from '../shared/constants';
 
-
 const axiosClient = axios.create({
-  // baseURL: CONSTANTS.BASE_URL,
+  baseURL: 'https://ec2-13-232-200-64.ap-south-1.compute.amazonaws.com:9091',
   headers: {
-    // 'Access-Control-Allow-Origin': '*',
     'Content-Type': 'application/json',
-    // 'Content-Type': 'application/json',
-    // 'Access-Control-Allow-Origin':  '*',
-    // "Access-Control-Allow-Headers":" Auth-Token,Content-Type,Access-Token",
-    // "Access-Control-Allow-Headers": "X-Token",
-    // "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
-
-    // access-control-allow-headers,access-control-allow-methods,access-control-allow-origin,content-type
-
     'Access-Control-Allow-Origin': '*',
-    // 'Access-Control-Allow-Methods':'GET, POST, PUT, PATCH, POST, DELETE, OPTIONS',
-    //  'Access-Control-Allow-Headers': 'Content-Type',
-    //  'Access-Control-Max-Age': '86400',
-
   }
 });
 
